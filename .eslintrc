@@ -19,7 +19,8 @@
         "prefer-const": 1,
         "no-const-assign": 2,
         "no-unused-vars": 1,
-        "require-yield": 2
+        "require-yield": 2,
+        "no-console": 0
     },
     "env": {
         "es6": true,
