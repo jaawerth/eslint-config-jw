@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-jw",
+  "version": "1.0.0",
+  "description": "eslint configuration based around es6 and my preferred defeaults.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaawerth/eslint-config-jw.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "es6"
+  ],
+  "author": "jaawerth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaawerth/eslint-config-jw/issues"
+  },
+  "homepage": "https://github.com/jaawerth/eslint-config-jw#readme"
+}
