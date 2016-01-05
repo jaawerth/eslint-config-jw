@@ -26,5 +26,8 @@
         "es6": true,
         "node": true
     },
+    "ecmaFeatures": {
+        "experimentalObjectRestSpread": true
+    },
     "extends": "eslint:recommended"
 }
