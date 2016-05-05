@@ -34,14 +34,17 @@ My custom eslint configuration
 	"valid-typeof": 2,
         "require-yield": 2,
         "no-console": 0,
-	"no-warning-comments": [1, { "terms": ["todo", "fixme"], "location": "start" }]
+	"no-warning-comments": [1, { "terms": ["todo", "fixme"], "location": "start" }],
+	"indent": [2, 2, { "SwitchCase": 1 }]
     },
     "env": {
         "es6": true,
         "node": true
     },
-    "ecmaFeatures": {
-        "experimentalObjectRestSpread": true
+    "parserOptions": {
+	"ecmaFeatures": {
+		"experimentalObjectRestSpread": true
+	}
     },
     "extends": "eslint:recommended"
 }
