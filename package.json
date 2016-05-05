@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-jw",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "eslint configuration based around es6 and my preferred defeaults.",
   "main": "index.js",
   "scripts": {
